@@ -1,0 +1,11 @@
+面试官，你好。由于框架还未完善，目前需要解决的问题还很多，本Demo只是临时版本。
+由于最近学校的事情很多，UI框架还没有接入。
+
+点击MyRPGGameDemo.exe执行
+
+我的博客：http://linyiqun403.top/
+我的Github: https://github.com/WilsonUnity
+本Demo源码地址：https://github.com/WilsonUnity/MyRPGGame-Version-2/tree/temp
+
+希望有机会能与贵公司一起共事。
+
