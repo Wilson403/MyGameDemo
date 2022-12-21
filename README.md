@@ -1,2 +1,2 @@
 # MyGameDemo
-试玩版本（PC端）
+SoulLikeGame demo exe for pc
